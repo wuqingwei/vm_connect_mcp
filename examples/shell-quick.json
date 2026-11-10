@@ -1,0 +1,1 @@
+{"box":"main","command":"hostname; nproc; free -h; df -h / | tail -1","timeout_s":30}
